@@ -8,5 +8,5 @@
 
 # Welcome to ENTR-451
 
-I'm so excited to learn how to code!!
+How are you today?
 
